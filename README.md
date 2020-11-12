@@ -13,3 +13,4 @@ This is a online registration server built using Spring Boot. It is a very basic
 5. A record with a image name 'mysql:5.7' should appear and this will indicate that it is running 
 6. Once it is running, run the following command to build the project: mvn clean install
 7. Now start up your server by running: mvn spring-boot:run
+8. This server runs on http://localhost:8080. A simple api call would be http://localhost:8080/online-registration/api/users
