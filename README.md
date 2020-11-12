@@ -1,5 +1,5 @@
 # online-registration-server
-Online Registration Application
+This is a online registration server built using Spring Boot. It is a very basic CRUD api for users.
 
 # Prerequisite
 1. Docker
