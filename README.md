@@ -18,6 +18,7 @@ This is a online registration server built using Spring Boot. It is a very basic
 10. Now run the the following command in the mysql terminal: 'CREATE database testdb;'
 11. To check that your database has been created run the following command to show databases: 'show databases;'. Note 'testdb' should have been created 
 12. Close the terminal by executing the following command: 'exit'
-13. Run the following command to build the project: mvn clean install
-14. Now start up your server by running: mvn spring-boot:run
-15. This server runs on http://localhost:8080. A simple api call would be http://localhost:8080/online-registration/api/users
+13. Navigate to this project root
+14. Run the following command to build the project: mvn clean install
+15. Now start up your server by running: mvn spring-boot:run
+16. This server runs on http://localhost:8080. A simple api call would be http://localhost:8080/online-registration/api/users
