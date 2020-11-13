@@ -1,4 +1,4 @@
-# online-registration-server
+# Online Registration Server
 This is a online registration server built using Spring Boot. It is a very basic CRUD api for users.
 
 # Prerequisite
